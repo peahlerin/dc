@@ -1,0 +1,9 @@
+C:\Users\gelenz\Desktop\DateCalculator\DateCalculator\bin\Debug\DateCalculator.exe.config
+C:\Users\gelenz\Desktop\DateCalculator\DateCalculator\bin\Debug\DateCalculator.exe
+C:\Users\gelenz\Desktop\DateCalculator\DateCalculator\bin\Debug\DateCalculator.pdb
+C:\Users\gelenz\Desktop\DateCalculator\DateCalculator\obj\Debug\DateCalculator.csprojResolveAssemblyReference.cache
+C:\Users\gelenz\Desktop\DateCalculator\DateCalculator\obj\Debug\DateCalculator.Properties.Resources.resources
+C:\Users\gelenz\Desktop\DateCalculator\DateCalculator\obj\Debug\DateCalculator.csproj.GenerateResource.Cache
+C:\Users\gelenz\Desktop\DateCalculator\DateCalculator\obj\Debug\DateCalculator.exe
+C:\Users\gelenz\Desktop\DateCalculator\DateCalculator\obj\Debug\DateCalculator.pdb
+C:\Users\gelenz\Desktop\DateCalculator\DateCalculator\obj\Debug\DateCalculator.CALCULATOR.resources
